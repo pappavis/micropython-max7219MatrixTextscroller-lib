@@ -1,9 +1,9 @@
 A text scroller extension library for Micropython.
 
-# Instructies
+# Installeren
 Hoe om deze lib te gebruiken.
 
-1. Installereer Micropython op een ESP8266 bord bijvb Wemos D1 Mini.
+1. Installereer <a href="http://Micropython.org">Micropython</a> op een ESP8266 bord bijvb Wemos D1 Mini.
 2. Download <a href="http://thonny.org">Thonny</a> IDE en max7219.py van https://github.com/mcauser/micropython-max7219
 3. Installeer Thonny, en upload max7219.py als 'script with current name.
 4. Verbind een LED matrixbord aan jouw Micropython apparaat volgens SPI pin.
