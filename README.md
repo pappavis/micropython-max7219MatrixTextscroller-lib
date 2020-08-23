@@ -32,6 +32,9 @@ scoller1.scrollText(textToScroll='')
 
 bij start zult de scrpller een hello world tekstjes laten zien.
 
+
+<img src='https://www.makerguides.com/wp-content/uploads/2020/06/MAX7219-LED-dot-matrix-display-Arduino-tutorial-scrolling-text.gif' alt='led matrix'/>
+
 ## Voorbeeld 2
 
 ```python
