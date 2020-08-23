@@ -12,6 +12,9 @@ Hoe om deze lib te gebruiken.
 
 Let op: laat jouw text altijd met 4x spaties voorlopen, anders scrollt hij te snel.
 
+## Dependencies
+Deze lib gebruikt max7219.py van https://github.com/mcauser/micropython-max7219
+
 # Voorbeeld code:
 Hoe je die lib gebruik.
 
