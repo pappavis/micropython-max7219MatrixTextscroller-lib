@@ -27,7 +27,7 @@ from Max7219Textscroller import MatrixTextscroller
 
 scoller1 = MatrixTextscroller()
 scoller1.debug = False
-scoller1.scrollText(textToScroll='')
+scoller1.scrollText(textToScroll='     MAX7219 TUTORIAL')
 ```
 
 bij start zult de scrpller een hello world tekstjes laten zien.
