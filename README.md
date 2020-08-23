@@ -1,6 +1,6 @@
 A text scroller extension library for Micropython.
 
-# HOW to use
+# Instructies
 Hoe om deze lib te gebruiken.
 
 1. Installereer Micropython op een ESP8266 bord bijvb Wemos D1 Mini.
@@ -10,7 +10,7 @@ Hoe om deze lib te gebruiken.
 5. Check pinout specifiek aan jouw bord, bijvb pin=15 voor Wemos D1 mini, zoals vermeld op micropython-max7219 lib.
 6.  
 
-# voorbeeld code:
+# Voorbeeld code:
 ```python
 from Max7219Textscroller import MatrixTextscroller
 
@@ -26,5 +26,5 @@ init()
 print('App eind')
 ```
 
-# credits
+# Credits
 door Michiel Erasmus
