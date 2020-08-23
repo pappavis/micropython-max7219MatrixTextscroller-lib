@@ -1,5 +1,8 @@
 A text scroller extension library for Micropython.
 
+# Required:
+max7219.py van https://github.com/mcauser/micropython-max7219
+
 # Installeren
 Hoe om deze lib te gebruiken.
 
