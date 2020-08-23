@@ -57,7 +57,11 @@ Je kunt hem dan uitvoeren
 MicroPython v1.11-8-g48dcbbe60 on 2019-05-29; ESP module with ESP8266
 
 Type "help()" for more information. [backend=GenericMicroPython]
+>>> %Run led_scroller_demo.py
+  App start
+  App eind
 >>> 
+
 ```
 
 # Credits
